@@ -19,5 +19,6 @@ A JavaScript "email" client that allows logged-in users to view, get, and send m
 </a>
 
 ---
+
 Assignment starter code provided by Harvard's CS50. You can read the full assignment description on [CS50's OpenCourseWare](https://cs50.harvard.edu/web/2020/projects/3/mail/)
 
