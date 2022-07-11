@@ -18,7 +18,16 @@ A JavaScript "email" client that allows logged-in users to view, get, and send m
 <img src="vid.png" alt="video demo" width="600px">
 </a>
 
+## How to Run
+1. Clone this repository, navigate to the project and type the following commands:
+2. Activate a virtual environment: 'python3 -m venv .venv' and <a href="https://docs.python.org/3/tutorial/venv.html">activate the virtual environment</a> (VSCode will do this for you automatically)
+3. Install dependencies: 'pip install -r requirements.txt'
+4. Run the project: 'python3 manage.py runserver'
+5. Register for a new account to send yourself some emails, or use the following credentials to see a populated inbox:
+* email: 'hope@test.com'
+* password: 'test1'
+
 ---
 
-Assignment starter code provided by Harvard's CS50. You can read the full assignment description on [CS50's OpenCourseWare](https://cs50.harvard.edu/web/2020/projects/3/mail/)
+Assignment starter code for this solo project provided by Harvard's CS50. You can read the full assignment description on [CS50's OpenCourseWare](https://cs50.harvard.edu/web/2020/projects/3/mail/)
 
